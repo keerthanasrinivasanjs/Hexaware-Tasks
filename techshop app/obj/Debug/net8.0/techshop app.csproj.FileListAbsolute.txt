@@ -1,0 +1,14 @@
+C:\hexaware 25 c#\techshop app\bin\Debug\net8.0\techshop app.exe
+C:\hexaware 25 c#\techshop app\bin\Debug\net8.0\techshop app.deps.json
+C:\hexaware 25 c#\techshop app\bin\Debug\net8.0\techshop app.runtimeconfig.json
+C:\hexaware 25 c#\techshop app\bin\Debug\net8.0\techshop app.dll
+C:\hexaware 25 c#\techshop app\bin\Debug\net8.0\techshop app.pdb
+C:\hexaware 25 c#\techshop app\obj\Debug\net8.0\techshop app.GeneratedMSBuildEditorConfig.editorconfig
+C:\hexaware 25 c#\techshop app\obj\Debug\net8.0\techshop app.AssemblyInfoInputs.cache
+C:\hexaware 25 c#\techshop app\obj\Debug\net8.0\techshop app.AssemblyInfo.cs
+C:\hexaware 25 c#\techshop app\obj\Debug\net8.0\techshop app.csproj.CoreCompileInputs.cache
+C:\hexaware 25 c#\techshop app\obj\Debug\net8.0\techshop app.dll
+C:\hexaware 25 c#\techshop app\obj\Debug\net8.0\refint\techshop app.dll
+C:\hexaware 25 c#\techshop app\obj\Debug\net8.0\techshop app.pdb
+C:\hexaware 25 c#\techshop app\obj\Debug\net8.0\techshop app.genruntimeconfig.cache
+C:\hexaware 25 c#\techshop app\obj\Debug\net8.0\ref\techshop app.dll
