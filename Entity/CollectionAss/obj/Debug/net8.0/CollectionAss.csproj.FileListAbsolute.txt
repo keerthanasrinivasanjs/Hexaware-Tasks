@@ -1,0 +1,14 @@
+C:\hexaware 25 c#\CollectionAss\obj\Debug\net8.0\CollectionAss.GeneratedMSBuildEditorConfig.editorconfig
+C:\hexaware 25 c#\CollectionAss\obj\Debug\net8.0\CollectionAss.AssemblyInfoInputs.cache
+C:\hexaware 25 c#\CollectionAss\obj\Debug\net8.0\CollectionAss.AssemblyInfo.cs
+C:\hexaware 25 c#\CollectionAss\obj\Debug\net8.0\CollectionAss.csproj.CoreCompileInputs.cache
+C:\hexaware 25 c#\CollectionAss\bin\Debug\net8.0\CollectionAss.exe
+C:\hexaware 25 c#\CollectionAss\bin\Debug\net8.0\CollectionAss.deps.json
+C:\hexaware 25 c#\CollectionAss\bin\Debug\net8.0\CollectionAss.runtimeconfig.json
+C:\hexaware 25 c#\CollectionAss\bin\Debug\net8.0\CollectionAss.dll
+C:\hexaware 25 c#\CollectionAss\bin\Debug\net8.0\CollectionAss.pdb
+C:\hexaware 25 c#\CollectionAss\obj\Debug\net8.0\CollectionAss.dll
+C:\hexaware 25 c#\CollectionAss\obj\Debug\net8.0\refint\CollectionAss.dll
+C:\hexaware 25 c#\CollectionAss\obj\Debug\net8.0\CollectionAss.pdb
+C:\hexaware 25 c#\CollectionAss\obj\Debug\net8.0\CollectionAss.genruntimeconfig.cache
+C:\hexaware 25 c#\CollectionAss\obj\Debug\net8.0\ref\CollectionAss.dll
