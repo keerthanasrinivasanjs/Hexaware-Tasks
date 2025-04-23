@@ -8,7 +8,7 @@ namespace ExceptionHandlling
 {
     internal class PaymentProcessor
     {
-        public void ProcessPayment(Order order)
+        public void ProcessPayment(OrderUpdater order)
         {
             try
             {
@@ -23,6 +23,11 @@ namespace ExceptionHandlling
             {
                 HandlePaymentFailure(e);
             }
+        }
+
+        internal void ProcessPayment(Order order)
+        {
+            throw new NotImplementedException();
         }
 
         private void HandlePaymentFailure(PaymentFailedException exception)
